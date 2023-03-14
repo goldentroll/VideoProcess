@@ -1,7 +1,3 @@
-//
-// Created by Omri Carmi on 04/04/2018.
-//
-
 #ifndef VIDEOPROCESS_VIDEOPROCESS_H
 #define VIDEOPROCESS_VIDEOPROCESS_H
 
